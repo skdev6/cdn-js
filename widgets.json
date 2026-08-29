@@ -46,17 +46,6 @@
       "icon": "eicon-price-table",
       "demo": "https://motionuiaddons.com/",
       "tutorial": "https://motionuiaddons.com/"
-    },
-    "new-pricing-switcher": {
-      "title": "New Pricing Switcher",
-      "category": ["pricing"],
-      "is_active": true,
-      "is_pro": true,
-      "is_upcoming": false,
-      "is_in_custom_widget": true,
-      "icon": "eicon-price-table",
-      "demo": "https://motionuiaddons.com/",
-      "tutorial": "https://motionuiaddons.com/"
     }
   }
 }
